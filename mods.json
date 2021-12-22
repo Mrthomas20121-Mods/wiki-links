@@ -1,10 +1,7 @@
-{
-    "thermal": {
-        "1.12.2": "#",
-        "1.16.5": "#"
-    },
-    "draconicEvolution": {
-        "1.12.2": "#",
-        "1.16.5": "#"
+[
+    {
+        "name": "surge",
+        "versionRange":["1.12"],
+        "loader":"forge"
     }
-}
+]
